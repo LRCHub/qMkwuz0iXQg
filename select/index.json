@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Low Rider",
+  "base_artist": "War",
+  "createdAt": "2026-02-11T13:30:21.498223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Low Rider (War Cover)",
+      "artist": "Exodus",
+      "has_synced": false,
+      "path": "select/01_Low_Rider_(War_Cover)_Exodus.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "Exodus",
+      "has_synced": false,
+      "path": "select/02_Low_Rider_Exodus.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "War",
+      "has_synced": true,
+      "path": "select/03_Low_Rider_War.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "War",
+      "has_synced": true,
+      "path": "select/04_Low_Rider_War.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "War",
+      "has_synced": true,
+      "path": "select/05_Low_Rider_War.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Low Rider - Ganja Kru Remix",
+      "artist": "War",
+      "has_synced": false,
+      "path": "select/06_Low_Rider_-_Ganja_Kru_Remix_War.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Low Rider - Remix",
+      "artist": "War",
+      "has_synced": false,
+      "path": "select/07_Low_Rider_-_Remix_War.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "J.J. Cale",
+      "has_synced": false,
+      "path": "select/08_Low_Rider_J.J._Cale.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Low Rider",
+      "artist": "Barry White",
+      "has_synced": false,
+      "path": "select/09_Low_Rider_Barry_White.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Low Rider",
+      "artist": "War",
+      "has_synced": false,
+      "path": "select/pl_01_Low_Rider_War.txt"
+    }
+  ]
+}
